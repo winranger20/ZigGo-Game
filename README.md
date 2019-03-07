@@ -1,1 +1,1 @@
-# ZigGo-Mobile-Game
+# ZigGo-Game
