@@ -23,12 +23,12 @@ public class BallController : MonoBehaviour {
         rb = GetComponent<Rigidbody>(); 
     }
 
-	// Use this for initialization
-	void Start () {
-
+     // Use this for initialization
+     void Start () 
+    {
         gameStarted = false;
         gameOver = false;
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {
