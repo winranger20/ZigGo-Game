@@ -8,7 +8,7 @@ Programming language: C#
 
 Platform: PC & Android
 
-Watch [Gameplay demo on youtube](https://www.youtube.com/watch?v=MXSdKJRh_TI&feature=youtu.be)
+Watch [Gameplay demo](https://www.youtube.com/watch?v=MXSdKJRh_TI&feature=youtu.be)
 
 How to install the game to Android phone/tablet: 
 
